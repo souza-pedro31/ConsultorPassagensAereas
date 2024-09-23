@@ -30,7 +30,7 @@ A aplicação foi possível graças a API disponibilizada pela empresa Booking, 
     
     2. Clonar o reposítorio do projeto
 
-Utilize o comando "git clone" e o url do reposítorio para fazer a clonagem. 
+Utilize o comando "git clone" e o url do repositório para fazer a clonagem. 
 
     3. Adicionar a chave de API no código
 
